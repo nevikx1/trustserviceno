@@ -43,35 +43,7 @@ While Trust Wallet doesn't offer a traditional customer support center, you can 
 .. warning::
    Support will NEVER ask for your 12-word recovery phrase. Anyone who does is attempting fraud.
 
-Use this line for general guidance — not to hand over sensitive information.
-
-Official Support Channels
---------------------------
-
-Aside from the phone line, here are the main official support options you should know:
-
-1. **Help Center**  
-   Visit: https://support.trustwallet.com
-
-   <div style="padding: 10px; background-color: #f2f9ff; border-left: 4px solid #007acc;">
-       A library of how-to articles covering recovery, staking, swaps, and security best practices.
-   </div>
-
-2. **Submit a Ticket**  
-   If your issue is more technical or requires a support agent, use the Trust Wallet ticket system.
-
-   Submit: https://support.trustwallet.com/hc/en-us/requests/new
-
-   <div style="padding: 10px; background-color: #fff7e6; border-left: 4px solid #ff9900;">
-       Include wallet version, screenshots, and a clear issue summary for faster resolution.
-   </div>
-
-3. **Community Forum**  
-   Visit: https://community.trustwallet.com
-
-   <div style="padding: 10px; background-color: #f5f5f5; border-left: 4px solid #999;">
-       Post questions and browse topics shared by users and moderators.
-   </div>
+Use this line for general guidance — not to hand over sensitive information
 
 What to Keep in Mind Before Reaching Out
 -----------------------------------------
